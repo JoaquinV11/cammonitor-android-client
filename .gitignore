@@ -1,0 +1,23 @@
+*.iml
+.gradle
+/.kotlin/
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/
+.DS_Store
+/build
+/app/release/
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+AGENTS.md
+
+# Workspace noise
+.directory
+**/.directory
