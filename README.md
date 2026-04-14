@@ -92,7 +92,7 @@ AndroidApp/
 
 ## Estado actual
 
-Proyecto funcional para demo end-to-end con `CamMonitor/Server`:
+Proyecto funcional para demo end-to-end con [`cammonitor-server`](https://github.com/JoaquinV11/cammonitor-server):
 
 - Compila en debug.
 - Tests unitarios básicos disponibles.
